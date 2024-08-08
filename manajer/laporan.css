@@ -1,0 +1,14 @@
+/* CSS Document */
+
+.laporan {
+    font-weight: bold;
+    color: #00F;
+    font-size: 18px;
+}
+.tandatangan{
+    text-align:center; height: auto; width:220px;float:left;
+}
+
+.tandatangan2{
+    text-align:center; margin-left:430px;
+}
