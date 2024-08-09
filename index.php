@@ -21,7 +21,7 @@
         <img src="logo_delta.png" alt="logo" style= "height: 200px;">
       </div>
 <div class="col-m">
-      <p class="login-box-msg">Login untuk mengelola sistem</p>
+      <p class="login-box-msg">Aplikasi cuti</p>
 
       <form action="index_act.php" method="post">
         <div class="input-group mb-3">
@@ -40,7 +40,19 @@
             </div>
           </div>
         </div>
-       
+        <div class="input-group mb-3">
+          <select class="form-control" name="level" required>
+            <option value="">--Pilih--</option>
+            <option value="Admin">Admin</option>
+            <option value="Manajer">Manajer</option>
+            <option value="Supervisor">Supervisor</option>
+            <option value="Karyawan">Karyawan</option>
+          </select>
+          <div class="input-group-append">
+            <div class="input-group-text">              
+            </div>
+          </div>
+        </div>
         <div class="row">
           <div class="col-8">
             <div class="icheck-primary">
