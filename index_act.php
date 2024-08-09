@@ -2,7 +2,7 @@
 include 'koneksi.php';
 $username = $_POST['username'];
 $password = md5($_POST['password']);
-$level = "Admin";
+$level = $_POST['level'];
 
 if($level == "Admin"){
 	$cek = mysqli_query($koneksi,"select * from tbl_admin where admin_username='$username' and admin_password='$password'");
