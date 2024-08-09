@@ -28,7 +28,7 @@
   <nav class="main-header navbar navbar-expand-md navbar-light navbar-white">
     <div class="container">
       <a href="index.php" class="navbar-brand">
-        <img src="../dist/img/AdminLTELogo.png" alt="AdminLTE Logo" class="brand-image img-circle elevation-3"
+        <img src="../logo_delta.png" alt="DeltaGrup" class="brand-image"
              style="opacity: .8">
         <span class="brand-text font-weight-light">Karyawan</span>
       </a>
