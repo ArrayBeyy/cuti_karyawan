@@ -142,6 +142,22 @@
               </p>
           </a>
           </li>
+          <li class="nav-item has-treeview">
+          <a href="manajer.php" class="nav-link">
+          <i class="nav-icon fas fa-address-card"></i>
+          <p>
+                Manajer
+              </p>
+          </a>
+          </li>
+          <li class="nav-item has-treeview">
+          <a href="supervisor.php" class="nav-link">
+            <i class="nav-icon fas fa-user-tie"></i>
+              <p>
+                Supervisor
+              </p>
+          </a>
+          </li>
          
           <li class="nav-header">CUTI</li>
           <li class="nav-item">
