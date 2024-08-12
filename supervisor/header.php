@@ -54,9 +54,9 @@
   <aside class="main-sidebar sidebar-dark-primary elevation-4">
     <!-- Brand Logo -->
     <a href="index.php" class="brand-link">
-      <img src="../dist/img/AdminLTELogo.png" alt="AdminLTE Logo" class="brand-image img-circle elevation-3"
-           style="opacity: .8">
-      <span class="brand-text font-weight-light">SUPERVISOR</span>
+    <img src="../logo_delta.png" style= "width: 40px; height: 200px;" alt="" class="brand-image "
+    style="opacity: .8">
+      <span class="brand-text font-weight-light">DeltaGrup</span>
     </a>
 
     <?php
@@ -102,7 +102,7 @@
           </li>           
           <li class="nav-item">
             <a href="karyawan.php" class="nav-link">              
-              <i class="nav-icon fas fa-user-tie"></i>
+              <i class="nav-icon fas fa-user"></i>
               <p>
                 Karyawan
                 <?php
