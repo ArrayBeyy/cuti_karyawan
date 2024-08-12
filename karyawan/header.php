@@ -30,7 +30,7 @@
       <a href="index.php" class="navbar-brand">
         <img src="../logo_delta.png" alt="DeltaGrup" class="brand-image"
              style="opacity: .8">
-        <span class="brand-text font-weight-light">Karyawan</span>
+        <span class="brand-text font-weight-light">DeltaGrup</span>
       </a>
       
       <button class="navbar-toggler order-1" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
