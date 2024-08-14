@@ -51,7 +51,7 @@
   <!-- /.navbar -->
 
   <!-- Main Sidebar Container -->
-  <aside class="main-sidebar sidebar-dark-primary elevation-4">
+  <aside class="main-sidebar sidebar-light-primary elevation-4">
     <!-- Brand Logo -->
     <a href="index.php" class="brand-link">
     <img src="../logo_delta.png" style= "width: 40px; height: 200px;" alt="" class="brand-image "
